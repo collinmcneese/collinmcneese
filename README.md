@@ -1,16 +1,19 @@
-### Hi there 👋
+## Context:
 
-<!--
-**collinmcneese/collinmcneese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👹  Anime (subbed)
 
-Here are some ideas to get you started:
+🙄  Dad Jokes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💙  Being generally _nice_ to people
+
+🚀  Automating processes and technology to spend less time doing tasks 
+(especially ones which can suck or are tedious) and have more time to 
+do new things.
+
+🧰. Finding tech or process problems and planning/implementing solutions
+
+✔️  Using bullet points to outline content
+
+## TLDR:
+
+🤓  Nerd

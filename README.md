@@ -1,5 +1,3 @@
-# collinmcneese
-
 ## Context:
 
 👹  Anime (subbed)

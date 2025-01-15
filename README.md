@@ -1,6 +1,6 @@
 # Context
 
-👹  Anime (subbed)
+👹  Anime
 
 🙄  Dad Jokes
 
